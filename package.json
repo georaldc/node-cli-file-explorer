@@ -1,5 +1,5 @@
 {
-	"name": "cli-file-explorer",
+	"name": "node-cli-file-explorer",
 	"version": "0.0.1",
-	"description": "A simple command line file explorer"
+	"description": "A simple command line file explorer done in node.js"
 }
